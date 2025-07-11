@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <title>GAS Client Demo</title>
+</head>
+<body>
+  <h1>เชื่อมต่อ Google Apps Script</h1>
+  <button id="btn">โหลดข้อมูล</button>
+  <pre id="output"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
